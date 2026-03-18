@@ -10,7 +10,7 @@
     {
       "name": "bloom",
       "description": "Research that starts by understanding you — so the answer is shaped by your situation, not the answer for everyone. For any complex real-world problem: financial decisions, health, travel, regulations, technical topics, local services.",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "source": "./",
       "keywords": [
         "research",

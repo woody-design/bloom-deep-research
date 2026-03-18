@@ -70,6 +70,8 @@ Bloom will ask clarifying questions, propose a research plan, then deliver a str
 
 **Principles over procedures.** As models get more capable, detailed instructions stop helping and start constraining. Bloom teaches how to think about a problem — not what steps to follow. The goal: prompt engineering that looks more like mentorship than programming.
 
+These principles emerged from building Bloom alongside [Duet](https://github.com/woody-design/duet-personal-alignment) — a personal alignment framework for teaching AI how to think with a specific person. The tool and the framework grew together, each shaping the other.
+
 ## Known limitations
 
 Bloom is a single-session research skill. Multi-turn iteration (coming back to refine after delivery) relies on the model's default behavior and isn't explicitly designed yet. Feedback on real-world edge cases is the most valuable contribution you can make.
