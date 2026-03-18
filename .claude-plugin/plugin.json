@@ -1,15 +1,15 @@
 {
-  "name": "hardgpt",
-  "description": "Structured research skill for complex, real-world questions. Clarifies your goal first, then researches systematically from official and community sources with dual-track cross-referencing.",
-  "version": "0.3.6",
+  "name": "bloom",
+  "description": "Research that starts by understanding you — so the answer is shaped by your situation, not the answer for everyone. For any complex real-world problem: financial decisions, health, travel, regulations, technical topics, local services.",
+  "version": "1.0.0",
   "author": {
     "name": "Woody Li",
     "email": "woodystudio.io@gmail.com",
     "url": "https://github.com/woody-design"
   },
-  "homepage": "https://github.com/woody-design/hardgpt-deep-research",
-  "repository": "https://github.com/woody-design/hardgpt-deep-research",
-  "license": "CC-BY-NC-SA-4.0",
+  "homepage": "https://github.com/woody-design/bloom-deep-research",
+  "repository": "https://github.com/woody-design/bloom-deep-research",
+  "license": "CC-BY-SA-4.0",
   "keywords": [
     "research",
     "deep-research",

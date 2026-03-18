@@ -1,16 +1,16 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "hardgpt-marketplace",
-  "description": "HardGPT - Deep Research Skill for Claude",
+  "name": "bloom-marketplace",
+  "description": "Bloom - Deep Research Skill for Claude",
   "owner": {
     "name": "Woody Li",
     "email": "woodystudio.io@gmail.com"
   },
   "plugins": [
     {
-      "name": "hardgpt",
-      "description": "Structured research skill for complex, real-world questions. Clarifies your goal first, then researches systematically from official and community sources with dual-track cross-referencing.",
-      "version": "0.3.6",
+      "name": "bloom",
+      "description": "Research that starts by understanding you — so the answer is shaped by your situation, not the answer for everyone. For any complex real-world problem: financial decisions, health, travel, regulations, technical topics, local services.",
+      "version": "1.0.0",
       "source": "./",
       "keywords": [
         "research",
